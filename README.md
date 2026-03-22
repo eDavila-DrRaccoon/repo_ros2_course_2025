@@ -1,11 +1,11 @@
-# ROS 2 Course Repository
+# ROS 2 Course Repository – 2025
 
 - **Author:** Eduardo de Jesús Dávila Meza, Ph.D.
 - **Email:** [eduardodavila94@hotmail.com](mailto:eduardodavila94@hotmail.com)
 - **LinkedIn:** [EduardoDavila-AI](https://www.linkedin.com/in/eduardodavila-ai/)
 - **HackerRank:** [eduardodavila94](https://www.hackerrank.com/profile/eduardodavila94)
 
-Official repository for the ROS 2 course taught at Tecnológico de Monterrey, Campus Guadalajara. This course is designed for students in the *Robotics and Intelligent Systems Engineering* program and aims to provide a solid foundation in the use and development of ROS 2 Humble applications.
+Official repository of the ROS 2 course taught at Tecnológico de Monterrey, Campus Guadalajara, in 2025. This course is designed for students in the *Robotics and Intelligent Systems Engineering* program and aims to provide a solid foundation in the use and development of ROS 2 Humble applications.
 
 # Instructions to launch the ROS 2 Packages
 
